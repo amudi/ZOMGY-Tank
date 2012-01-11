@@ -1,0 +1,19 @@
+*.svn/*
+
+# Xcode noise
+build/*
+*.pbxuser
+*.perspective
+*.perspectivev3
+*.mode1v3
+*.mode2v3
+*.swp
+*~.nib
+
+# osx noise
+.DS_Store
+profile
+
+# Xcode 4
+*.xcodeproj/xcuserdata/*
+*.xcodeproj/project.xcworkspace/xcuserdata/*
